@@ -1,9 +1,5 @@
-
-/**
- * Write a description of class main here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+/*
+ * @Joel Seura 21.556.232-8 
  */
 public class Main {
     public static void main(String[] args) {
