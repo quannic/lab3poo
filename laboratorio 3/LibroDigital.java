@@ -1,11 +1,6 @@
-
-/**
- * Write a description of class librodigital here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
-public class LibroDigital {
+/*
+ * @Joel Seura 21.556.232-8 
+ */public class LibroDigital {
     private Libro libro;               // Composición: contiene un Libro
     private double tamañoMB;
     private String enlaceDescarga;
