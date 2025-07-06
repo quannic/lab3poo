@@ -1,9 +1,5 @@
-
-/**
- * Write a description of class usuario here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+/*
+ * @Joel Seura 21.556.232-8 
  */
 public class Usuario {
     private String nombre;
